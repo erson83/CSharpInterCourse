@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{2D925443-9394-4C9E-9713-F2CB9EF0E629}|Default">
+  <DisabledProjects>
+    <String>AccessModifier/2.Classes_AccessModifier.csproj</String>
+  </DisabledProjects>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CSharpIntermediateJeffersonCopy PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSharpIntermediateJeffersonCopy" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
