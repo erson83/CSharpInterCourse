@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "InterfacePart1B/1.0.0": {
+        "runtime": {
+          "InterfacePart1B.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InterfacePart1B/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

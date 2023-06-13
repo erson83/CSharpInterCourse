@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/CSharpIntermediateCopy/Properties/bin/Debug/net7.0/PropertiesPrivateSet
+/Users/jeffersonong/Projects/CSharpIntermediateCopy/Properties/bin/Debug/net7.0/PropertiesPrivateSet.deps.json
+/Users/jeffersonong/Projects/CSharpIntermediateCopy/Properties/bin/Debug/net7.0/PropertiesPrivateSet.runtimeconfig.json
+/Users/jeffersonong/Projects/CSharpIntermediateCopy/Properties/bin/Debug/net7.0/PropertiesPrivateSet.dll
+/Users/jeffersonong/Projects/CSharpIntermediateCopy/Properties/bin/Debug/net7.0/PropertiesPrivateSet.pdb
+/Users/jeffersonong/Projects/CSharpIntermediateCopy/Properties/obj/Debug/net7.0/PropertiesPrivateSet.csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/CSharpIntermediateCopy/Properties/obj/Debug/net7.0/PropertiesPrivateSet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/CSharpIntermediateCopy/Properties/obj/Debug/net7.0/PropertiesPrivateSet.AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/CSharpIntermediateCopy/Properties/obj/Debug/net7.0/PropertiesPrivateSet.AssemblyInfo.cs
+/Users/jeffersonong/Projects/CSharpIntermediateCopy/Properties/obj/Debug/net7.0/PropertiesPrivateSet.csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/CSharpIntermediateCopy/Properties/obj/Debug/net7.0/PropertiesPrivateSet.dll
+/Users/jeffersonong/Projects/CSharpIntermediateCopy/Properties/obj/Debug/net7.0/refint/PropertiesPrivateSet.dll
+/Users/jeffersonong/Projects/CSharpIntermediateCopy/Properties/obj/Debug/net7.0/PropertiesPrivateSet.pdb
+/Users/jeffersonong/Projects/CSharpIntermediateCopy/Properties/obj/Debug/net7.0/PropertiesPrivateSet.genruntimeconfig.cache
+/Users/jeffersonong/Projects/CSharpIntermediateCopy/Properties/obj/Debug/net7.0/ref/PropertiesPrivateSet.dll

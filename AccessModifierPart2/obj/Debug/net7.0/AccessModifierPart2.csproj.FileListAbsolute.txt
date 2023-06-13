@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/CsharpIntermediate/AccessModifierPart2/bin/Debug/net7.0/AccessModifierPart2
+/Users/jeffersonong/Projects/CsharpIntermediate/AccessModifierPart2/bin/Debug/net7.0/AccessModifierPart2.deps.json
+/Users/jeffersonong/Projects/CsharpIntermediate/AccessModifierPart2/bin/Debug/net7.0/AccessModifierPart2.runtimeconfig.json
+/Users/jeffersonong/Projects/CsharpIntermediate/AccessModifierPart2/bin/Debug/net7.0/AccessModifierPart2.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/AccessModifierPart2/bin/Debug/net7.0/AccessModifierPart2.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/AccessModifierPart2/obj/Debug/net7.0/AccessModifierPart2.csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/AccessModifierPart2/obj/Debug/net7.0/AccessModifierPart2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/CsharpIntermediate/AccessModifierPart2/obj/Debug/net7.0/AccessModifierPart2.AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/AccessModifierPart2/obj/Debug/net7.0/AccessModifierPart2.AssemblyInfo.cs
+/Users/jeffersonong/Projects/CsharpIntermediate/AccessModifierPart2/obj/Debug/net7.0/AccessModifierPart2.csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/AccessModifierPart2/obj/Debug/net7.0/AccessModifierPart2.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/AccessModifierPart2/obj/Debug/net7.0/refint/AccessModifierPart2.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/AccessModifierPart2/obj/Debug/net7.0/AccessModifierPart2.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/AccessModifierPart2/obj/Debug/net7.0/AccessModifierPart2.genruntimeconfig.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/AccessModifierPart2/obj/Debug/net7.0/ref/AccessModifierPart2.dll

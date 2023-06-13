@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/CsharpIntermediate/ExcerciseDBCommand/bin/Debug/net7.0/ExcerciseDBCommand
+/Users/jeffersonong/Projects/CsharpIntermediate/ExcerciseDBCommand/bin/Debug/net7.0/ExcerciseDBCommand.deps.json
+/Users/jeffersonong/Projects/CsharpIntermediate/ExcerciseDBCommand/bin/Debug/net7.0/ExcerciseDBCommand.runtimeconfig.json
+/Users/jeffersonong/Projects/CsharpIntermediate/ExcerciseDBCommand/bin/Debug/net7.0/ExcerciseDBCommand.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/ExcerciseDBCommand/bin/Debug/net7.0/ExcerciseDBCommand.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/ExcerciseDBCommand/obj/Debug/net7.0/ExcerciseDBCommand.csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/ExcerciseDBCommand/obj/Debug/net7.0/ExcerciseDBCommand.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/CsharpIntermediate/ExcerciseDBCommand/obj/Debug/net7.0/ExcerciseDBCommand.AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/ExcerciseDBCommand/obj/Debug/net7.0/ExcerciseDBCommand.AssemblyInfo.cs
+/Users/jeffersonong/Projects/CsharpIntermediate/ExcerciseDBCommand/obj/Debug/net7.0/ExcerciseDBCommand.csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/ExcerciseDBCommand/obj/Debug/net7.0/ExcerciseDBCommand.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/ExcerciseDBCommand/obj/Debug/net7.0/refint/ExcerciseDBCommand.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/ExcerciseDBCommand/obj/Debug/net7.0/ExcerciseDBCommand.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/ExcerciseDBCommand/obj/Debug/net7.0/ExcerciseDBCommand.genruntimeconfig.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/ExcerciseDBCommand/obj/Debug/net7.0/ref/ExcerciseDBCommand.dll

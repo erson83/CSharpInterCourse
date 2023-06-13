@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/CsharpIntermediate/Methods/bin/Debug/net6.0/2.Classes_Methods_Params
+/Users/jeffersonong/Projects/CsharpIntermediate/Methods/bin/Debug/net6.0/2.Classes_Methods_Params.deps.json
+/Users/jeffersonong/Projects/CsharpIntermediate/Methods/bin/Debug/net6.0/2.Classes_Methods_Params.runtimeconfig.json
+/Users/jeffersonong/Projects/CsharpIntermediate/Methods/bin/Debug/net6.0/2.Classes_Methods_Params.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/Methods/bin/Debug/net6.0/2.Classes_Methods_Params.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/Methods/obj/Debug/net6.0/2.Classes_Methods_Params.csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/Methods/obj/Debug/net6.0/2.Classes_Methods_Params.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/CsharpIntermediate/Methods/obj/Debug/net6.0/2.Classes_Methods_Params.AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/Methods/obj/Debug/net6.0/2.Classes_Methods_Params.AssemblyInfo.cs
+/Users/jeffersonong/Projects/CsharpIntermediate/Methods/obj/Debug/net6.0/2.Classes_Methods_Params.csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/Methods/obj/Debug/net6.0/2.Classes_Methods_Params.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/Methods/obj/Debug/net6.0/refint/2.Classes_Methods_Params.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/Methods/obj/Debug/net6.0/2.Classes_Methods_Params.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/Methods/obj/Debug/net6.0/2.Classes_Methods_Params.genruntimeconfig.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/Methods/obj/Debug/net6.0/ref/2.Classes_Methods_Params.dll

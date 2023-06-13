@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/CsharpIntermediate/ExcerciseDesignaStack/obj/Debug/net7.0/ExcerciseDesignaStack.csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/ExcerciseDesignaStack/obj/Debug/net7.0/ExcerciseDesignaStack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/CsharpIntermediate/ExcerciseDesignaStack/obj/Debug/net7.0/ExcerciseDesignaStack.AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/ExcerciseDesignaStack/obj/Debug/net7.0/ExcerciseDesignaStack.AssemblyInfo.cs
+/Users/jeffersonong/Projects/CsharpIntermediate/ExcerciseDesignaStack/obj/Debug/net7.0/ExcerciseDesignaStack.csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/ExcerciseDesignaStack/bin/Debug/net7.0/ExcerciseDesignaStack
+/Users/jeffersonong/Projects/CsharpIntermediate/ExcerciseDesignaStack/bin/Debug/net7.0/ExcerciseDesignaStack.deps.json
+/Users/jeffersonong/Projects/CsharpIntermediate/ExcerciseDesignaStack/bin/Debug/net7.0/ExcerciseDesignaStack.runtimeconfig.json
+/Users/jeffersonong/Projects/CsharpIntermediate/ExcerciseDesignaStack/bin/Debug/net7.0/ExcerciseDesignaStack.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/ExcerciseDesignaStack/bin/Debug/net7.0/ExcerciseDesignaStack.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/ExcerciseDesignaStack/obj/Debug/net7.0/ExcerciseDesignaStack.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/ExcerciseDesignaStack/obj/Debug/net7.0/refint/ExcerciseDesignaStack.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/ExcerciseDesignaStack/obj/Debug/net7.0/ExcerciseDesignaStack.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/ExcerciseDesignaStack/obj/Debug/net7.0/ExcerciseDesignaStack.genruntimeconfig.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/ExcerciseDesignaStack/obj/Debug/net7.0/ref/ExcerciseDesignaStack.dll

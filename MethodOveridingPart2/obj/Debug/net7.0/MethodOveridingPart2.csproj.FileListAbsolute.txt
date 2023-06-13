@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/CsharpIntermediate/MethodOveridingPart2/bin/Debug/net7.0/MethodOveridingPart2
+/Users/jeffersonong/Projects/CsharpIntermediate/MethodOveridingPart2/bin/Debug/net7.0/MethodOveridingPart2.deps.json
+/Users/jeffersonong/Projects/CsharpIntermediate/MethodOveridingPart2/bin/Debug/net7.0/MethodOveridingPart2.runtimeconfig.json
+/Users/jeffersonong/Projects/CsharpIntermediate/MethodOveridingPart2/bin/Debug/net7.0/MethodOveridingPart2.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/MethodOveridingPart2/bin/Debug/net7.0/MethodOveridingPart2.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/MethodOveridingPart2/obj/Debug/net7.0/MethodOveridingPart2.csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/MethodOveridingPart2/obj/Debug/net7.0/MethodOveridingPart2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/CsharpIntermediate/MethodOveridingPart2/obj/Debug/net7.0/MethodOveridingPart2.AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/MethodOveridingPart2/obj/Debug/net7.0/MethodOveridingPart2.AssemblyInfo.cs
+/Users/jeffersonong/Projects/CsharpIntermediate/MethodOveridingPart2/obj/Debug/net7.0/MethodOveridingPart2.csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/MethodOveridingPart2/obj/Debug/net7.0/MethodOveridingPart2.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/MethodOveridingPart2/obj/Debug/net7.0/refint/MethodOveridingPart2.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/MethodOveridingPart2/obj/Debug/net7.0/MethodOveridingPart2.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/MethodOveridingPart2/obj/Debug/net7.0/MethodOveridingPart2.genruntimeconfig.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/MethodOveridingPart2/obj/Debug/net7.0/ref/MethodOveridingPart2.dll

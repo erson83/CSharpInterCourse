@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/CsharpIntermediate/Composition/bin/Debug/net7.0/Composition
+/Users/jeffersonong/Projects/CsharpIntermediate/Composition/bin/Debug/net7.0/Composition.deps.json
+/Users/jeffersonong/Projects/CsharpIntermediate/Composition/bin/Debug/net7.0/Composition.runtimeconfig.json
+/Users/jeffersonong/Projects/CsharpIntermediate/Composition/bin/Debug/net7.0/Composition.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/Composition/bin/Debug/net7.0/Composition.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/Composition/obj/Debug/net7.0/Composition.csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/Composition/obj/Debug/net7.0/Composition.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/CsharpIntermediate/Composition/obj/Debug/net7.0/Composition.AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/Composition/obj/Debug/net7.0/Composition.AssemblyInfo.cs
+/Users/jeffersonong/Projects/CsharpIntermediate/Composition/obj/Debug/net7.0/Composition.csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/Composition/obj/Debug/net7.0/Composition.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/Composition/obj/Debug/net7.0/refint/Composition.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/Composition/obj/Debug/net7.0/Composition.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/Composition/obj/Debug/net7.0/Composition.genruntimeconfig.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/Composition/obj/Debug/net7.0/ref/Composition.dll

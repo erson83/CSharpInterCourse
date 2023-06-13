@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/CsharpIntermediate/IndexerPart2/bin/Debug/net7.0/IndexerPart2
+/Users/jeffersonong/Projects/CsharpIntermediate/IndexerPart2/bin/Debug/net7.0/IndexerPart2.deps.json
+/Users/jeffersonong/Projects/CsharpIntermediate/IndexerPart2/bin/Debug/net7.0/IndexerPart2.runtimeconfig.json
+/Users/jeffersonong/Projects/CsharpIntermediate/IndexerPart2/bin/Debug/net7.0/IndexerPart2.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/IndexerPart2/bin/Debug/net7.0/IndexerPart2.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/IndexerPart2/obj/Debug/net7.0/IndexerPart2.csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/IndexerPart2/obj/Debug/net7.0/IndexerPart2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/CsharpIntermediate/IndexerPart2/obj/Debug/net7.0/IndexerPart2.AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/IndexerPart2/obj/Debug/net7.0/IndexerPart2.AssemblyInfo.cs
+/Users/jeffersonong/Projects/CsharpIntermediate/IndexerPart2/obj/Debug/net7.0/IndexerPart2.csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/IndexerPart2/obj/Debug/net7.0/IndexerPart2.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/IndexerPart2/obj/Debug/net7.0/refint/IndexerPart2.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/IndexerPart2/obj/Debug/net7.0/IndexerPart2.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/IndexerPart2/obj/Debug/net7.0/IndexerPart2.genruntimeconfig.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/IndexerPart2/obj/Debug/net7.0/ref/IndexerPart2.dll

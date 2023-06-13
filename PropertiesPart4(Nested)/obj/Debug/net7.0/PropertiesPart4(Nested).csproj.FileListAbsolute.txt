@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/CsharpIntermediate/PropertiesPart4(Nested)/bin/Debug/net7.0/PropertiesPart4(Nested)
+/Users/jeffersonong/Projects/CsharpIntermediate/PropertiesPart4(Nested)/bin/Debug/net7.0/PropertiesPart4(Nested).deps.json
+/Users/jeffersonong/Projects/CsharpIntermediate/PropertiesPart4(Nested)/bin/Debug/net7.0/PropertiesPart4(Nested).runtimeconfig.json
+/Users/jeffersonong/Projects/CsharpIntermediate/PropertiesPart4(Nested)/bin/Debug/net7.0/PropertiesPart4(Nested).dll
+/Users/jeffersonong/Projects/CsharpIntermediate/PropertiesPart4(Nested)/bin/Debug/net7.0/PropertiesPart4(Nested).pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/PropertiesPart4(Nested)/obj/Debug/net7.0/PropertiesPart4(Nested).csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/PropertiesPart4(Nested)/obj/Debug/net7.0/PropertiesPart4(Nested).GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/CsharpIntermediate/PropertiesPart4(Nested)/obj/Debug/net7.0/PropertiesPart4(Nested).AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/PropertiesPart4(Nested)/obj/Debug/net7.0/PropertiesPart4(Nested).AssemblyInfo.cs
+/Users/jeffersonong/Projects/CsharpIntermediate/PropertiesPart4(Nested)/obj/Debug/net7.0/PropertiesPart4(Nested).csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/PropertiesPart4(Nested)/obj/Debug/net7.0/PropertiesPart4(Nested).dll
+/Users/jeffersonong/Projects/CsharpIntermediate/PropertiesPart4(Nested)/obj/Debug/net7.0/refint/PropertiesPart4(Nested).dll
+/Users/jeffersonong/Projects/CsharpIntermediate/PropertiesPart4(Nested)/obj/Debug/net7.0/PropertiesPart4(Nested).pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/PropertiesPart4(Nested)/obj/Debug/net7.0/PropertiesPart4(Nested).genruntimeconfig.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/PropertiesPart4(Nested)/obj/Debug/net7.0/ref/PropertiesPart4(Nested).dll

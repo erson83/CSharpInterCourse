@@ -1,0 +1,45 @@
+﻿
+{
+
+    public class Person
+    {
+
+        //name field stored in class
+        public string Name;
+
+        //method uses public void
+        public void Introduce(string to)
+        {
+        Console.WriteLine("Hi {0}, i am {1}",to, Name);
+
+        }
+}
+
+    class Program
+
+    {
+
+        static void Main(string[] args)
+        {
+
+            // person is a newly declared object
+            var person = new Person();
+            person.Name = "John";
+
+            //  instance method: when calling object .person.Introduce, we are calling a method
+            person.Introduce("Mosh");
+
+
+
+        }
+
+
+    }
+
+
+
+
+}
+
+
+

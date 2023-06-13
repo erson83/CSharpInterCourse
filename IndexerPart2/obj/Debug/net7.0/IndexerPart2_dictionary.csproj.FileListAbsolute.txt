@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/CsharpIntermediate/IndexerPart2/bin/Debug/net7.0/IndexerPart2_dictionary
+/Users/jeffersonong/Projects/CsharpIntermediate/IndexerPart2/bin/Debug/net7.0/IndexerPart2_dictionary.deps.json
+/Users/jeffersonong/Projects/CsharpIntermediate/IndexerPart2/bin/Debug/net7.0/IndexerPart2_dictionary.runtimeconfig.json
+/Users/jeffersonong/Projects/CsharpIntermediate/IndexerPart2/bin/Debug/net7.0/IndexerPart2_dictionary.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/IndexerPart2/bin/Debug/net7.0/IndexerPart2_dictionary.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/IndexerPart2/obj/Debug/net7.0/IndexerPart2_dictionary.csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/IndexerPart2/obj/Debug/net7.0/IndexerPart2_dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/CsharpIntermediate/IndexerPart2/obj/Debug/net7.0/IndexerPart2_dictionary.AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/IndexerPart2/obj/Debug/net7.0/IndexerPart2_dictionary.AssemblyInfo.cs
+/Users/jeffersonong/Projects/CsharpIntermediate/IndexerPart2/obj/Debug/net7.0/IndexerPart2_dictionary.csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/IndexerPart2/obj/Debug/net7.0/IndexerPart2_dictionary.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/IndexerPart2/obj/Debug/net7.0/refint/IndexerPart2_dictionary.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/IndexerPart2/obj/Debug/net7.0/IndexerPart2_dictionary.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/IndexerPart2/obj/Debug/net7.0/IndexerPart2_dictionary.genruntimeconfig.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/IndexerPart2/obj/Debug/net7.0/ref/IndexerPart2_dictionary.dll

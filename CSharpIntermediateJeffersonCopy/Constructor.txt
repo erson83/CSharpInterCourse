@@ -1,0 +1,25 @@
+﻿
+using System;
+namespace CSharpIntermediateJeffersonCopy
+
+	//Constructor - a method that is called when an instance of a class is created
+	// to initialize a field in a class
+	// Constructor must have the same name as Class if not it will not run
+	// Constructor has no return type, no void
+{
+	public class Customer
+	{
+		// using pascal
+		public string Name;
+
+		//using camel case
+		public Customer(string name)
+		{
+
+			// using 'this' just to signify we are using a member of the class Name
+			this.Name = name;
+
+		}
+	}
+}
+

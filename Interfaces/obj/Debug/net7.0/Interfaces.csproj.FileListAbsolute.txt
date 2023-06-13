@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/CsharpIntermediate/Interfaces/bin/Debug/net7.0/Interfaces
+/Users/jeffersonong/Projects/CsharpIntermediate/Interfaces/bin/Debug/net7.0/Interfaces.deps.json
+/Users/jeffersonong/Projects/CsharpIntermediate/Interfaces/bin/Debug/net7.0/Interfaces.runtimeconfig.json
+/Users/jeffersonong/Projects/CsharpIntermediate/Interfaces/bin/Debug/net7.0/Interfaces.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/Interfaces/bin/Debug/net7.0/Interfaces.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/Interfaces/obj/Debug/net7.0/Interfaces.csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/Interfaces/obj/Debug/net7.0/Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/CsharpIntermediate/Interfaces/obj/Debug/net7.0/Interfaces.AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/Interfaces/obj/Debug/net7.0/Interfaces.AssemblyInfo.cs
+/Users/jeffersonong/Projects/CsharpIntermediate/Interfaces/obj/Debug/net7.0/Interfaces.csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/Interfaces/obj/Debug/net7.0/Interfaces.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/Interfaces/obj/Debug/net7.0/refint/Interfaces.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/Interfaces/obj/Debug/net7.0/Interfaces.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/Interfaces/obj/Debug/net7.0/Interfaces.genruntimeconfig.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/Interfaces/obj/Debug/net7.0/ref/Interfaces.dll

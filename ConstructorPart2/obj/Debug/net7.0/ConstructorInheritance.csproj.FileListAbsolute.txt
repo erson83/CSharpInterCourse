@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/CsharpIntermediate/ConstructorPart2/bin/Debug/net7.0/ConstructorInheritance
+/Users/jeffersonong/Projects/CsharpIntermediate/ConstructorPart2/bin/Debug/net7.0/ConstructorInheritance.deps.json
+/Users/jeffersonong/Projects/CsharpIntermediate/ConstructorPart2/bin/Debug/net7.0/ConstructorInheritance.runtimeconfig.json
+/Users/jeffersonong/Projects/CsharpIntermediate/ConstructorPart2/bin/Debug/net7.0/ConstructorInheritance.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/ConstructorPart2/bin/Debug/net7.0/ConstructorInheritance.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/ConstructorPart2/obj/Debug/net7.0/ConstructorInheritance.csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/ConstructorPart2/obj/Debug/net7.0/ConstructorInheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/CsharpIntermediate/ConstructorPart2/obj/Debug/net7.0/ConstructorInheritance.AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/ConstructorPart2/obj/Debug/net7.0/ConstructorInheritance.AssemblyInfo.cs
+/Users/jeffersonong/Projects/CsharpIntermediate/ConstructorPart2/obj/Debug/net7.0/ConstructorInheritance.csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/ConstructorPart2/obj/Debug/net7.0/ConstructorInheritance.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/ConstructorPart2/obj/Debug/net7.0/refint/ConstructorInheritance.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/ConstructorPart2/obj/Debug/net7.0/ConstructorInheritance.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/ConstructorPart2/obj/Debug/net7.0/ConstructorInheritance.genruntimeconfig.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/ConstructorPart2/obj/Debug/net7.0/ref/ConstructorInheritance.dll

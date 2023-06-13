@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/CsharpIntermediate/ExcerciseWorkflowEngine/bin/Debug/net7.0/ExcerciseWorkflowEngine
+/Users/jeffersonong/Projects/CsharpIntermediate/ExcerciseWorkflowEngine/bin/Debug/net7.0/ExcerciseWorkflowEngine.deps.json
+/Users/jeffersonong/Projects/CsharpIntermediate/ExcerciseWorkflowEngine/bin/Debug/net7.0/ExcerciseWorkflowEngine.runtimeconfig.json
+/Users/jeffersonong/Projects/CsharpIntermediate/ExcerciseWorkflowEngine/bin/Debug/net7.0/ExcerciseWorkflowEngine.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/ExcerciseWorkflowEngine/bin/Debug/net7.0/ExcerciseWorkflowEngine.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/ExcerciseWorkflowEngine/obj/Debug/net7.0/ExcerciseWorkflowEngine.csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/ExcerciseWorkflowEngine/obj/Debug/net7.0/ExcerciseWorkflowEngine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/CsharpIntermediate/ExcerciseWorkflowEngine/obj/Debug/net7.0/ExcerciseWorkflowEngine.AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/ExcerciseWorkflowEngine/obj/Debug/net7.0/ExcerciseWorkflowEngine.AssemblyInfo.cs
+/Users/jeffersonong/Projects/CsharpIntermediate/ExcerciseWorkflowEngine/obj/Debug/net7.0/ExcerciseWorkflowEngine.csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/ExcerciseWorkflowEngine/obj/Debug/net7.0/ExcerciseWorkflowEngine.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/ExcerciseWorkflowEngine/obj/Debug/net7.0/refint/ExcerciseWorkflowEngine.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/ExcerciseWorkflowEngine/obj/Debug/net7.0/ExcerciseWorkflowEngine.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/ExcerciseWorkflowEngine/obj/Debug/net7.0/ExcerciseWorkflowEngine.genruntimeconfig.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/ExcerciseWorkflowEngine/obj/Debug/net7.0/ref/ExcerciseWorkflowEngine.dll

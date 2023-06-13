@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/CsharpIntermediate/DesignDataBaseConnection2/bin/Debug/net7.0/DesignDataBaseConnection2
+/Users/jeffersonong/Projects/CsharpIntermediate/DesignDataBaseConnection2/bin/Debug/net7.0/DesignDataBaseConnection2.deps.json
+/Users/jeffersonong/Projects/CsharpIntermediate/DesignDataBaseConnection2/bin/Debug/net7.0/DesignDataBaseConnection2.runtimeconfig.json
+/Users/jeffersonong/Projects/CsharpIntermediate/DesignDataBaseConnection2/bin/Debug/net7.0/DesignDataBaseConnection2.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/DesignDataBaseConnection2/bin/Debug/net7.0/DesignDataBaseConnection2.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/DesignDataBaseConnection2/obj/Debug/net7.0/DesignDataBaseConnection2.csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/DesignDataBaseConnection2/obj/Debug/net7.0/DesignDataBaseConnection2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/CsharpIntermediate/DesignDataBaseConnection2/obj/Debug/net7.0/DesignDataBaseConnection2.AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/DesignDataBaseConnection2/obj/Debug/net7.0/DesignDataBaseConnection2.AssemblyInfo.cs
+/Users/jeffersonong/Projects/CsharpIntermediate/DesignDataBaseConnection2/obj/Debug/net7.0/DesignDataBaseConnection2.csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/DesignDataBaseConnection2/obj/Debug/net7.0/DesignDataBaseConnection2.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/DesignDataBaseConnection2/obj/Debug/net7.0/refint/DesignDataBaseConnection2.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/DesignDataBaseConnection2/obj/Debug/net7.0/DesignDataBaseConnection2.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/DesignDataBaseConnection2/obj/Debug/net7.0/DesignDataBaseConnection2.genruntimeconfig.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/DesignDataBaseConnection2/obj/Debug/net7.0/ref/DesignDataBaseConnection2.dll

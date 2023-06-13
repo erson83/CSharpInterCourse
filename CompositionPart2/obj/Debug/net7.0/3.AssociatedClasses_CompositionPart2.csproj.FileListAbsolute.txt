@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/CsharpIntermediate/CompositionPart2/bin/Debug/net7.0/3.AssociatedClasses_CompositionPart2
+/Users/jeffersonong/Projects/CsharpIntermediate/CompositionPart2/bin/Debug/net7.0/3.AssociatedClasses_CompositionPart2.deps.json
+/Users/jeffersonong/Projects/CsharpIntermediate/CompositionPart2/bin/Debug/net7.0/3.AssociatedClasses_CompositionPart2.runtimeconfig.json
+/Users/jeffersonong/Projects/CsharpIntermediate/CompositionPart2/bin/Debug/net7.0/3.AssociatedClasses_CompositionPart2.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/CompositionPart2/bin/Debug/net7.0/3.AssociatedClasses_CompositionPart2.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/CompositionPart2/obj/Debug/net7.0/3.AssociatedClasses_CompositionPart2.csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/CompositionPart2/obj/Debug/net7.0/3.AssociatedClasses_CompositionPart2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/CsharpIntermediate/CompositionPart2/obj/Debug/net7.0/3.AssociatedClasses_CompositionPart2.AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/CompositionPart2/obj/Debug/net7.0/3.AssociatedClasses_CompositionPart2.AssemblyInfo.cs
+/Users/jeffersonong/Projects/CsharpIntermediate/CompositionPart2/obj/Debug/net7.0/3.AssociatedClasses_CompositionPart2.csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/CompositionPart2/obj/Debug/net7.0/3.AssociatedClasses_CompositionPart2.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/CompositionPart2/obj/Debug/net7.0/refint/3.AssociatedClasses_CompositionPart2.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/CompositionPart2/obj/Debug/net7.0/3.AssociatedClasses_CompositionPart2.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/CompositionPart2/obj/Debug/net7.0/3.AssociatedClasses_CompositionPart2.genruntimeconfig.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/CompositionPart2/obj/Debug/net7.0/ref/3.AssociatedClasses_CompositionPart2.dll

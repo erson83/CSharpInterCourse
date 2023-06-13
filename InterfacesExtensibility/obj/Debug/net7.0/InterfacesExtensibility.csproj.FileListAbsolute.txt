@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/CsharpIntermediate/InterfacesExtensibility/bin/Debug/net7.0/InterfacesExtensibility
+/Users/jeffersonong/Projects/CsharpIntermediate/InterfacesExtensibility/bin/Debug/net7.0/InterfacesExtensibility.deps.json
+/Users/jeffersonong/Projects/CsharpIntermediate/InterfacesExtensibility/bin/Debug/net7.0/InterfacesExtensibility.runtimeconfig.json
+/Users/jeffersonong/Projects/CsharpIntermediate/InterfacesExtensibility/bin/Debug/net7.0/InterfacesExtensibility.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/InterfacesExtensibility/bin/Debug/net7.0/InterfacesExtensibility.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/InterfacesExtensibility/obj/Debug/net7.0/InterfacesExtensibility.csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/InterfacesExtensibility/obj/Debug/net7.0/InterfacesExtensibility.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/CsharpIntermediate/InterfacesExtensibility/obj/Debug/net7.0/InterfacesExtensibility.AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/InterfacesExtensibility/obj/Debug/net7.0/InterfacesExtensibility.AssemblyInfo.cs
+/Users/jeffersonong/Projects/CsharpIntermediate/InterfacesExtensibility/obj/Debug/net7.0/InterfacesExtensibility.csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/InterfacesExtensibility/obj/Debug/net7.0/InterfacesExtensibility.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/InterfacesExtensibility/obj/Debug/net7.0/refint/InterfacesExtensibility.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/InterfacesExtensibility/obj/Debug/net7.0/InterfacesExtensibility.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/InterfacesExtensibility/obj/Debug/net7.0/InterfacesExtensibility.genruntimeconfig.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/InterfacesExtensibility/obj/Debug/net7.0/ref/InterfacesExtensibility.dll

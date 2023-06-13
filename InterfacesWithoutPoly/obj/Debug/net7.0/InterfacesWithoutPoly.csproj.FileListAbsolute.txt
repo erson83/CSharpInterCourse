@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/CsharpIntermediate/InterfacesWithoutPoly/bin/Debug/net7.0/InterfacesWithoutPoly
+/Users/jeffersonong/Projects/CsharpIntermediate/InterfacesWithoutPoly/bin/Debug/net7.0/InterfacesWithoutPoly.deps.json
+/Users/jeffersonong/Projects/CsharpIntermediate/InterfacesWithoutPoly/bin/Debug/net7.0/InterfacesWithoutPoly.runtimeconfig.json
+/Users/jeffersonong/Projects/CsharpIntermediate/InterfacesWithoutPoly/bin/Debug/net7.0/InterfacesWithoutPoly.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/InterfacesWithoutPoly/bin/Debug/net7.0/InterfacesWithoutPoly.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/InterfacesWithoutPoly/obj/Debug/net7.0/InterfacesWithoutPoly.csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/InterfacesWithoutPoly/obj/Debug/net7.0/InterfacesWithoutPoly.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/CsharpIntermediate/InterfacesWithoutPoly/obj/Debug/net7.0/InterfacesWithoutPoly.AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/InterfacesWithoutPoly/obj/Debug/net7.0/InterfacesWithoutPoly.AssemblyInfo.cs
+/Users/jeffersonong/Projects/CsharpIntermediate/InterfacesWithoutPoly/obj/Debug/net7.0/InterfacesWithoutPoly.csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/InterfacesWithoutPoly/obj/Debug/net7.0/InterfacesWithoutPoly.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/InterfacesWithoutPoly/obj/Debug/net7.0/refint/InterfacesWithoutPoly.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/InterfacesWithoutPoly/obj/Debug/net7.0/InterfacesWithoutPoly.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/InterfacesWithoutPoly/obj/Debug/net7.0/InterfacesWithoutPoly.genruntimeconfig.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/InterfacesWithoutPoly/obj/Debug/net7.0/ref/InterfacesWithoutPoly.dll

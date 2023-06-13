@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/CsharpIntermediate/Properties/obj/Debug/net7.0/2.Classes_Properties.csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/Properties/obj/Debug/net7.0/2.Classes_Properties.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/CsharpIntermediate/Properties/obj/Debug/net7.0/2.Classes_Properties.AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/Properties/obj/Debug/net7.0/2.Classes_Properties.AssemblyInfo.cs
+/Users/jeffersonong/Projects/CsharpIntermediate/Properties/obj/Debug/net7.0/2.Classes_Properties.csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/Properties/bin/Debug/net7.0/2.Classes_Properties
+/Users/jeffersonong/Projects/CsharpIntermediate/Properties/bin/Debug/net7.0/2.Classes_Properties.deps.json
+/Users/jeffersonong/Projects/CsharpIntermediate/Properties/bin/Debug/net7.0/2.Classes_Properties.runtimeconfig.json
+/Users/jeffersonong/Projects/CsharpIntermediate/Properties/bin/Debug/net7.0/2.Classes_Properties.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/Properties/bin/Debug/net7.0/2.Classes_Properties.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/Properties/obj/Debug/net7.0/2.Classes_Properties.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/Properties/obj/Debug/net7.0/refint/2.Classes_Properties.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/Properties/obj/Debug/net7.0/2.Classes_Properties.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/Properties/obj/Debug/net7.0/2.Classes_Properties.genruntimeconfig.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/Properties/obj/Debug/net7.0/ref/2.Classes_Properties.dll

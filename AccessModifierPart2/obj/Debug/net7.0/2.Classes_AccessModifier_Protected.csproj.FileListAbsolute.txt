@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/CsharpIntermediate/AccessModifierPart2/bin/Debug/net7.0/2.Classes_AccessModifier_Protected
+/Users/jeffersonong/Projects/CsharpIntermediate/AccessModifierPart2/bin/Debug/net7.0/2.Classes_AccessModifier_Protected.deps.json
+/Users/jeffersonong/Projects/CsharpIntermediate/AccessModifierPart2/bin/Debug/net7.0/2.Classes_AccessModifier_Protected.runtimeconfig.json
+/Users/jeffersonong/Projects/CsharpIntermediate/AccessModifierPart2/bin/Debug/net7.0/2.Classes_AccessModifier_Protected.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/AccessModifierPart2/bin/Debug/net7.0/2.Classes_AccessModifier_Protected.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/AccessModifierPart2/obj/Debug/net7.0/2.Classes_AccessModifier_Protected.csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/AccessModifierPart2/obj/Debug/net7.0/2.Classes_AccessModifier_Protected.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/CsharpIntermediate/AccessModifierPart2/obj/Debug/net7.0/2.Classes_AccessModifier_Protected.AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/AccessModifierPart2/obj/Debug/net7.0/2.Classes_AccessModifier_Protected.AssemblyInfo.cs
+/Users/jeffersonong/Projects/CsharpIntermediate/AccessModifierPart2/obj/Debug/net7.0/2.Classes_AccessModifier_Protected.csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/AccessModifierPart2/obj/Debug/net7.0/2.Classes_AccessModifier_Protected.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/AccessModifierPart2/obj/Debug/net7.0/refint/2.Classes_AccessModifier_Protected.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/AccessModifierPart2/obj/Debug/net7.0/2.Classes_AccessModifier_Protected.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/AccessModifierPart2/obj/Debug/net7.0/2.Classes_AccessModifier_Protected.genruntimeconfig.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/AccessModifierPart2/obj/Debug/net7.0/ref/2.Classes_AccessModifier_Protected.dll

@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/CsharpIntermediate/Inheritance/bin/Debug/net7.0/3.AssociatedClasses_Inheritance
+/Users/jeffersonong/Projects/CsharpIntermediate/Inheritance/bin/Debug/net7.0/3.AssociatedClasses_Inheritance.deps.json
+/Users/jeffersonong/Projects/CsharpIntermediate/Inheritance/bin/Debug/net7.0/3.AssociatedClasses_Inheritance.runtimeconfig.json
+/Users/jeffersonong/Projects/CsharpIntermediate/Inheritance/bin/Debug/net7.0/3.AssociatedClasses_Inheritance.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/Inheritance/bin/Debug/net7.0/3.AssociatedClasses_Inheritance.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/Inheritance/obj/Debug/net7.0/3.AssociatedClasses_Inheritance.csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/Inheritance/obj/Debug/net7.0/3.AssociatedClasses_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/CsharpIntermediate/Inheritance/obj/Debug/net7.0/3.AssociatedClasses_Inheritance.AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/Inheritance/obj/Debug/net7.0/3.AssociatedClasses_Inheritance.AssemblyInfo.cs
+/Users/jeffersonong/Projects/CsharpIntermediate/Inheritance/obj/Debug/net7.0/3.AssociatedClasses_Inheritance.csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/Inheritance/obj/Debug/net7.0/3.AssociatedClasses_Inheritance.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/Inheritance/obj/Debug/net7.0/refint/3.AssociatedClasses_Inheritance.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/Inheritance/obj/Debug/net7.0/3.AssociatedClasses_Inheritance.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/Inheritance/obj/Debug/net7.0/3.AssociatedClasses_Inheritance.genruntimeconfig.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/Inheritance/obj/Debug/net7.0/ref/3.AssociatedClasses_Inheritance.dll

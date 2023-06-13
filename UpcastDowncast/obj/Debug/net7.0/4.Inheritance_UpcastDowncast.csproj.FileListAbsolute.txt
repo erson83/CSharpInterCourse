@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/CsharpIntermediate/UpcastDowncast/bin/Debug/net7.0/4.Inheritance_UpcastDowncast
+/Users/jeffersonong/Projects/CsharpIntermediate/UpcastDowncast/bin/Debug/net7.0/4.Inheritance_UpcastDowncast.deps.json
+/Users/jeffersonong/Projects/CsharpIntermediate/UpcastDowncast/bin/Debug/net7.0/4.Inheritance_UpcastDowncast.runtimeconfig.json
+/Users/jeffersonong/Projects/CsharpIntermediate/UpcastDowncast/bin/Debug/net7.0/4.Inheritance_UpcastDowncast.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/UpcastDowncast/bin/Debug/net7.0/4.Inheritance_UpcastDowncast.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/UpcastDowncast/obj/Debug/net7.0/4.Inheritance_UpcastDowncast.csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/UpcastDowncast/obj/Debug/net7.0/4.Inheritance_UpcastDowncast.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/CsharpIntermediate/UpcastDowncast/obj/Debug/net7.0/4.Inheritance_UpcastDowncast.AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/UpcastDowncast/obj/Debug/net7.0/4.Inheritance_UpcastDowncast.AssemblyInfo.cs
+/Users/jeffersonong/Projects/CsharpIntermediate/UpcastDowncast/obj/Debug/net7.0/4.Inheritance_UpcastDowncast.csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/UpcastDowncast/obj/Debug/net7.0/4.Inheritance_UpcastDowncast.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/UpcastDowncast/obj/Debug/net7.0/refint/4.Inheritance_UpcastDowncast.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/UpcastDowncast/obj/Debug/net7.0/4.Inheritance_UpcastDowncast.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/UpcastDowncast/obj/Debug/net7.0/4.Inheritance_UpcastDowncast.genruntimeconfig.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/UpcastDowncast/obj/Debug/net7.0/ref/4.Inheritance_UpcastDowncast.dll

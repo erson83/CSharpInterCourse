@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/CsharpIntermediate/SealedClasses/bin/Debug/net7.0/SealedClasses
+/Users/jeffersonong/Projects/CsharpIntermediate/SealedClasses/bin/Debug/net7.0/SealedClasses.deps.json
+/Users/jeffersonong/Projects/CsharpIntermediate/SealedClasses/bin/Debug/net7.0/SealedClasses.runtimeconfig.json
+/Users/jeffersonong/Projects/CsharpIntermediate/SealedClasses/bin/Debug/net7.0/SealedClasses.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/SealedClasses/bin/Debug/net7.0/SealedClasses.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/SealedClasses/obj/Debug/net7.0/SealedClasses.csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/SealedClasses/obj/Debug/net7.0/SealedClasses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/CsharpIntermediate/SealedClasses/obj/Debug/net7.0/SealedClasses.AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/SealedClasses/obj/Debug/net7.0/SealedClasses.AssemblyInfo.cs
+/Users/jeffersonong/Projects/CsharpIntermediate/SealedClasses/obj/Debug/net7.0/SealedClasses.csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/SealedClasses/obj/Debug/net7.0/SealedClasses.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/SealedClasses/obj/Debug/net7.0/refint/SealedClasses.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/SealedClasses/obj/Debug/net7.0/SealedClasses.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/SealedClasses/obj/Debug/net7.0/SealedClasses.genruntimeconfig.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/SealedClasses/obj/Debug/net7.0/ref/SealedClasses.dll

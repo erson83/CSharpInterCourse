@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/CsharpIntermediate/MethodsOverriding/bin/Debug/net7.0/MethodsOverriding
+/Users/jeffersonong/Projects/CsharpIntermediate/MethodsOverriding/bin/Debug/net7.0/MethodsOverriding.deps.json
+/Users/jeffersonong/Projects/CsharpIntermediate/MethodsOverriding/bin/Debug/net7.0/MethodsOverriding.runtimeconfig.json
+/Users/jeffersonong/Projects/CsharpIntermediate/MethodsOverriding/bin/Debug/net7.0/MethodsOverriding.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/MethodsOverriding/bin/Debug/net7.0/MethodsOverriding.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/MethodsOverriding/obj/Debug/net7.0/MethodsOverriding.csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/MethodsOverriding/obj/Debug/net7.0/MethodsOverriding.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/CsharpIntermediate/MethodsOverriding/obj/Debug/net7.0/MethodsOverriding.AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/MethodsOverriding/obj/Debug/net7.0/MethodsOverriding.AssemblyInfo.cs
+/Users/jeffersonong/Projects/CsharpIntermediate/MethodsOverriding/obj/Debug/net7.0/MethodsOverriding.csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/MethodsOverriding/obj/Debug/net7.0/MethodsOverriding.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/MethodsOverriding/obj/Debug/net7.0/refint/MethodsOverriding.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/MethodsOverriding/obj/Debug/net7.0/MethodsOverriding.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/MethodsOverriding/obj/Debug/net7.0/MethodsOverriding.genruntimeconfig.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/MethodsOverriding/obj/Debug/net7.0/ref/MethodsOverriding.dll

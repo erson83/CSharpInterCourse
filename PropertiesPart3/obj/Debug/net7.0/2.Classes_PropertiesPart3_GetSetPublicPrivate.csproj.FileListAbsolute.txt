@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/CsharpIntermediate/PropertiesPart3/bin/Debug/net7.0/2.Classes_PropertiesPart3_GetSetPublicPrivate
+/Users/jeffersonong/Projects/CsharpIntermediate/PropertiesPart3/bin/Debug/net7.0/2.Classes_PropertiesPart3_GetSetPublicPrivate.deps.json
+/Users/jeffersonong/Projects/CsharpIntermediate/PropertiesPart3/bin/Debug/net7.0/2.Classes_PropertiesPart3_GetSetPublicPrivate.runtimeconfig.json
+/Users/jeffersonong/Projects/CsharpIntermediate/PropertiesPart3/bin/Debug/net7.0/2.Classes_PropertiesPart3_GetSetPublicPrivate.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/PropertiesPart3/bin/Debug/net7.0/2.Classes_PropertiesPart3_GetSetPublicPrivate.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/PropertiesPart3/obj/Debug/net7.0/2.Classes_PropertiesPart3_GetSetPublicPrivate.csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/PropertiesPart3/obj/Debug/net7.0/2.Classes_PropertiesPart3_GetSetPublicPrivate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/CsharpIntermediate/PropertiesPart3/obj/Debug/net7.0/2.Classes_PropertiesPart3_GetSetPublicPrivate.AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/PropertiesPart3/obj/Debug/net7.0/2.Classes_PropertiesPart3_GetSetPublicPrivate.AssemblyInfo.cs
+/Users/jeffersonong/Projects/CsharpIntermediate/PropertiesPart3/obj/Debug/net7.0/2.Classes_PropertiesPart3_GetSetPublicPrivate.csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/PropertiesPart3/obj/Debug/net7.0/2.Classes_PropertiesPart3_GetSetPublicPrivate.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/PropertiesPart3/obj/Debug/net7.0/refint/2.Classes_PropertiesPart3_GetSetPublicPrivate.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/PropertiesPart3/obj/Debug/net7.0/2.Classes_PropertiesPart3_GetSetPublicPrivate.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/PropertiesPart3/obj/Debug/net7.0/2.Classes_PropertiesPart3_GetSetPublicPrivate.genruntimeconfig.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/PropertiesPart3/obj/Debug/net7.0/ref/2.Classes_PropertiesPart3_GetSetPublicPrivate.dll

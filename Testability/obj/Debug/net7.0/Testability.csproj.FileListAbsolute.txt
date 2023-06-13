@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/CsharpIntermediate/Testability/bin/Debug/net7.0/Testability
+/Users/jeffersonong/Projects/CsharpIntermediate/Testability/bin/Debug/net7.0/Testability.deps.json
+/Users/jeffersonong/Projects/CsharpIntermediate/Testability/bin/Debug/net7.0/Testability.runtimeconfig.json
+/Users/jeffersonong/Projects/CsharpIntermediate/Testability/bin/Debug/net7.0/Testability.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/Testability/bin/Debug/net7.0/Testability.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/Testability/obj/Debug/net7.0/Testability.csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/Testability/obj/Debug/net7.0/Testability.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/CsharpIntermediate/Testability/obj/Debug/net7.0/Testability.AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/Testability/obj/Debug/net7.0/Testability.AssemblyInfo.cs
+/Users/jeffersonong/Projects/CsharpIntermediate/Testability/obj/Debug/net7.0/Testability.csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/Testability/obj/Debug/net7.0/Testability.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/Testability/obj/Debug/net7.0/refint/Testability.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/Testability/obj/Debug/net7.0/Testability.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/Testability/obj/Debug/net7.0/Testability.genruntimeconfig.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/Testability/obj/Debug/net7.0/ref/Testability.dll

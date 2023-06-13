@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/CsharpIntermediate/DesignDataBaseConnection3/bin/Debug/net7.0/DesignDataBaseConnection3
+/Users/jeffersonong/Projects/CsharpIntermediate/DesignDataBaseConnection3/bin/Debug/net7.0/DesignDataBaseConnection3.deps.json
+/Users/jeffersonong/Projects/CsharpIntermediate/DesignDataBaseConnection3/bin/Debug/net7.0/DesignDataBaseConnection3.runtimeconfig.json
+/Users/jeffersonong/Projects/CsharpIntermediate/DesignDataBaseConnection3/bin/Debug/net7.0/DesignDataBaseConnection3.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/DesignDataBaseConnection3/bin/Debug/net7.0/DesignDataBaseConnection3.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/DesignDataBaseConnection3/obj/Debug/net7.0/DesignDataBaseConnection3.csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/DesignDataBaseConnection3/obj/Debug/net7.0/DesignDataBaseConnection3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/CsharpIntermediate/DesignDataBaseConnection3/obj/Debug/net7.0/DesignDataBaseConnection3.AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/DesignDataBaseConnection3/obj/Debug/net7.0/DesignDataBaseConnection3.AssemblyInfo.cs
+/Users/jeffersonong/Projects/CsharpIntermediate/DesignDataBaseConnection3/obj/Debug/net7.0/DesignDataBaseConnection3.csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/DesignDataBaseConnection3/obj/Debug/net7.0/DesignDataBaseConnection3.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/DesignDataBaseConnection3/obj/Debug/net7.0/refint/DesignDataBaseConnection3.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/DesignDataBaseConnection3/obj/Debug/net7.0/DesignDataBaseConnection3.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/DesignDataBaseConnection3/obj/Debug/net7.0/DesignDataBaseConnection3.genruntimeconfig.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/DesignDataBaseConnection3/obj/Debug/net7.0/ref/DesignDataBaseConnection3.dll

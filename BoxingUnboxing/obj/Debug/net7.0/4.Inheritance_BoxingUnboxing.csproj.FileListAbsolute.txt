@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/CsharpIntermediate/BoxingUnboxing/bin/Debug/net7.0/4.Inheritance_BoxingUnboxing
+/Users/jeffersonong/Projects/CsharpIntermediate/BoxingUnboxing/bin/Debug/net7.0/4.Inheritance_BoxingUnboxing.deps.json
+/Users/jeffersonong/Projects/CsharpIntermediate/BoxingUnboxing/bin/Debug/net7.0/4.Inheritance_BoxingUnboxing.runtimeconfig.json
+/Users/jeffersonong/Projects/CsharpIntermediate/BoxingUnboxing/bin/Debug/net7.0/4.Inheritance_BoxingUnboxing.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/BoxingUnboxing/bin/Debug/net7.0/4.Inheritance_BoxingUnboxing.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/BoxingUnboxing/obj/Debug/net7.0/4.Inheritance_BoxingUnboxing.csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/BoxingUnboxing/obj/Debug/net7.0/4.Inheritance_BoxingUnboxing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/CsharpIntermediate/BoxingUnboxing/obj/Debug/net7.0/4.Inheritance_BoxingUnboxing.AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/BoxingUnboxing/obj/Debug/net7.0/4.Inheritance_BoxingUnboxing.AssemblyInfo.cs
+/Users/jeffersonong/Projects/CsharpIntermediate/BoxingUnboxing/obj/Debug/net7.0/4.Inheritance_BoxingUnboxing.csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/BoxingUnboxing/obj/Debug/net7.0/4.Inheritance_BoxingUnboxing.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/BoxingUnboxing/obj/Debug/net7.0/refint/4.Inheritance_BoxingUnboxing.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/BoxingUnboxing/obj/Debug/net7.0/4.Inheritance_BoxingUnboxing.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/BoxingUnboxing/obj/Debug/net7.0/4.Inheritance_BoxingUnboxing.genruntimeconfig.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/BoxingUnboxing/obj/Debug/net7.0/ref/4.Inheritance_BoxingUnboxing.dll

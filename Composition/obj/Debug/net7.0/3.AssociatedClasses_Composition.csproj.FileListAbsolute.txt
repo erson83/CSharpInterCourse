@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/CsharpIntermediate/Composition/bin/Debug/net7.0/3.AssociatedClasses_Composition
+/Users/jeffersonong/Projects/CsharpIntermediate/Composition/bin/Debug/net7.0/3.AssociatedClasses_Composition.deps.json
+/Users/jeffersonong/Projects/CsharpIntermediate/Composition/bin/Debug/net7.0/3.AssociatedClasses_Composition.runtimeconfig.json
+/Users/jeffersonong/Projects/CsharpIntermediate/Composition/bin/Debug/net7.0/3.AssociatedClasses_Composition.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/Composition/bin/Debug/net7.0/3.AssociatedClasses_Composition.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/Composition/obj/Debug/net7.0/3.AssociatedClasses_Composition.csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/Composition/obj/Debug/net7.0/3.AssociatedClasses_Composition.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/CsharpIntermediate/Composition/obj/Debug/net7.0/3.AssociatedClasses_Composition.AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/Composition/obj/Debug/net7.0/3.AssociatedClasses_Composition.AssemblyInfo.cs
+/Users/jeffersonong/Projects/CsharpIntermediate/Composition/obj/Debug/net7.0/3.AssociatedClasses_Composition.csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/Composition/obj/Debug/net7.0/3.AssociatedClasses_Composition.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/Composition/obj/Debug/net7.0/refint/3.AssociatedClasses_Composition.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/Composition/obj/Debug/net7.0/3.AssociatedClasses_Composition.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/Composition/obj/Debug/net7.0/3.AssociatedClasses_Composition.genruntimeconfig.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/Composition/obj/Debug/net7.0/ref/3.AssociatedClasses_Composition.dll

@@ -1,0 +1,14 @@
+﻿
+INFO: Migrating started at {0}", DateTime.Now
+INFO: Migrating ended at {0}", DateTime.Now
+INFO: Migrating started at {0}, DateTime.Now
+INFO: Migrating ended at {0}, DateTime.Now
+INFO: Migrating started at (0)
+INFO: Migrating ended at (0), DateTime.Now
+INFO: Migrating started at 5/18/2023 11:32:33 AM
+INFO: Migrating ended at 5/18/2023 11:32:33 AM
+INFO: Migrating started at 5/27/2023 5:37:06 PM
+INFO: Migrating ended at 5/27/2023 5:37:06 PM
+INFO: Migrating started at 5/27/2023 5:40:20 PM
+INFO: Migrating ended at 5/27/2023 5:40:42 PM
+INFO: Migrating started at 5/27/2023 5:42:05 PM

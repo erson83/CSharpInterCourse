@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/CsharpIntermediate/InterfaceWithPOly/bin/Debug/net7.0/InterfaceWithPOly
+/Users/jeffersonong/Projects/CsharpIntermediate/InterfaceWithPOly/bin/Debug/net7.0/InterfaceWithPOly.deps.json
+/Users/jeffersonong/Projects/CsharpIntermediate/InterfaceWithPOly/bin/Debug/net7.0/InterfaceWithPOly.runtimeconfig.json
+/Users/jeffersonong/Projects/CsharpIntermediate/InterfaceWithPOly/bin/Debug/net7.0/InterfaceWithPOly.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/InterfaceWithPOly/bin/Debug/net7.0/InterfaceWithPOly.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/InterfaceWithPOly/obj/Debug/net7.0/InterfaceWithPOly.csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/InterfaceWithPOly/obj/Debug/net7.0/InterfaceWithPOly.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/CsharpIntermediate/InterfaceWithPOly/obj/Debug/net7.0/InterfaceWithPOly.AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/InterfaceWithPOly/obj/Debug/net7.0/InterfaceWithPOly.AssemblyInfo.cs
+/Users/jeffersonong/Projects/CsharpIntermediate/InterfaceWithPOly/obj/Debug/net7.0/InterfaceWithPOly.csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/InterfaceWithPOly/obj/Debug/net7.0/InterfaceWithPOly.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/InterfaceWithPOly/obj/Debug/net7.0/refint/InterfaceWithPOly.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/InterfaceWithPOly/obj/Debug/net7.0/InterfaceWithPOly.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/InterfaceWithPOly/obj/Debug/net7.0/InterfaceWithPOly.genruntimeconfig.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/InterfaceWithPOly/obj/Debug/net7.0/ref/InterfaceWithPOly.dll

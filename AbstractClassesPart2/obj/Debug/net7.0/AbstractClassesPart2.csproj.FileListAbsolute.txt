@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/CsharpIntermediate/AbstractClassesPart2/bin/Debug/net7.0/AbstractClassesPart2
+/Users/jeffersonong/Projects/CsharpIntermediate/AbstractClassesPart2/bin/Debug/net7.0/AbstractClassesPart2.deps.json
+/Users/jeffersonong/Projects/CsharpIntermediate/AbstractClassesPart2/bin/Debug/net7.0/AbstractClassesPart2.runtimeconfig.json
+/Users/jeffersonong/Projects/CsharpIntermediate/AbstractClassesPart2/bin/Debug/net7.0/AbstractClassesPart2.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/AbstractClassesPart2/bin/Debug/net7.0/AbstractClassesPart2.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/AbstractClassesPart2/obj/Debug/net7.0/AbstractClassesPart2.csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/AbstractClassesPart2/obj/Debug/net7.0/AbstractClassesPart2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/CsharpIntermediate/AbstractClassesPart2/obj/Debug/net7.0/AbstractClassesPart2.AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/AbstractClassesPart2/obj/Debug/net7.0/AbstractClassesPart2.AssemblyInfo.cs
+/Users/jeffersonong/Projects/CsharpIntermediate/AbstractClassesPart2/obj/Debug/net7.0/AbstractClassesPart2.csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/AbstractClassesPart2/obj/Debug/net7.0/AbstractClassesPart2.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/AbstractClassesPart2/obj/Debug/net7.0/refint/AbstractClassesPart2.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/AbstractClassesPart2/obj/Debug/net7.0/AbstractClassesPart2.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/AbstractClassesPart2/obj/Debug/net7.0/AbstractClassesPart2.genruntimeconfig.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/AbstractClassesPart2/obj/Debug/net7.0/ref/AbstractClassesPart2.dll

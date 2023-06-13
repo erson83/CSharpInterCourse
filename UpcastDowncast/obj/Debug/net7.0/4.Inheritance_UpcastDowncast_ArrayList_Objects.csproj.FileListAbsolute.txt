@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/CsharpIntermediate/UpcastDowncast/bin/Debug/net7.0/4.Inheritance_UpcastDowncast_ArrayList_Objects
+/Users/jeffersonong/Projects/CsharpIntermediate/UpcastDowncast/bin/Debug/net7.0/4.Inheritance_UpcastDowncast_ArrayList_Objects.deps.json
+/Users/jeffersonong/Projects/CsharpIntermediate/UpcastDowncast/bin/Debug/net7.0/4.Inheritance_UpcastDowncast_ArrayList_Objects.runtimeconfig.json
+/Users/jeffersonong/Projects/CsharpIntermediate/UpcastDowncast/bin/Debug/net7.0/4.Inheritance_UpcastDowncast_ArrayList_Objects.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/UpcastDowncast/bin/Debug/net7.0/4.Inheritance_UpcastDowncast_ArrayList_Objects.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/UpcastDowncast/obj/Debug/net7.0/4.Inheritance_UpcastDowncast_ArrayList_Objects.csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/UpcastDowncast/obj/Debug/net7.0/4.Inheritance_UpcastDowncast_ArrayList_Objects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/CsharpIntermediate/UpcastDowncast/obj/Debug/net7.0/4.Inheritance_UpcastDowncast_ArrayList_Objects.AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/UpcastDowncast/obj/Debug/net7.0/4.Inheritance_UpcastDowncast_ArrayList_Objects.AssemblyInfo.cs
+/Users/jeffersonong/Projects/CsharpIntermediate/UpcastDowncast/obj/Debug/net7.0/4.Inheritance_UpcastDowncast_ArrayList_Objects.csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/UpcastDowncast/obj/Debug/net7.0/4.Inheritance_UpcastDowncast_ArrayList_Objects.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/UpcastDowncast/obj/Debug/net7.0/refint/4.Inheritance_UpcastDowncast_ArrayList_Objects.dll
+/Users/jeffersonong/Projects/CsharpIntermediate/UpcastDowncast/obj/Debug/net7.0/4.Inheritance_UpcastDowncast_ArrayList_Objects.pdb
+/Users/jeffersonong/Projects/CsharpIntermediate/UpcastDowncast/obj/Debug/net7.0/4.Inheritance_UpcastDowncast_ArrayList_Objects.genruntimeconfig.cache
+/Users/jeffersonong/Projects/CsharpIntermediate/UpcastDowncast/obj/Debug/net7.0/ref/4.Inheritance_UpcastDowncast_ArrayList_Objects.dll
